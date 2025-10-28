@@ -11,8 +11,8 @@ Integration – combining Matplotlib with NumPy
 How to Use
 
 1. Clone the repo:
-      git clone https://github.com/THEXPO/Pandas_doc.git
-      cd matplotlib-quick-guide
+      git clone https://github.com/THEXPO/Matplotlib_doc.git
+   cd matplotlib-quick-guide
 
 2. Open any file and run it:
    
