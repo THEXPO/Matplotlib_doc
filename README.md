@@ -14,4 +14,4 @@ How to Use
       git clone https://github.com/THEXPO/Matplotlib_doc.git
 
 2. Open any file and run it
-3. 3.Modify parameters and re-run to instantly see how syntax changes affect the plot.
+3. Modify parameters and re-run to instantly see how syntax changes affect the plot.
